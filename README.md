@@ -186,24 +186,3 @@ Bash
 <img src="assets/first.jpeg" width="700">
 <img src="assets/second.jpeg" width="700">
 <img src="assets/third.jpeg" width="700">
----
-📌 Applications
-- Sports analytics
-- Betting and odds research
-- Match outcome forecasting
-- League performance simulation
-- Feature engineering experimentation
----
-💪 Strengths
-- Fully modular architecture
-- Multi-league scalability
-- Clean separation of data, features, and inference
-- Realistic league evolution modeling
----
-📜 License
-- This project is released under the MIT License. You are free to use, modify, and distribute it with attribution.
----
-🙌 Author
-- Jay Keluskar Computer Engineering Student
-- ML • Data • Sports Analytics
-- Would you like me to add a "Project Structure" section to show how the folders are organized?
