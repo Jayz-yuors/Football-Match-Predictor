@@ -155,8 +155,8 @@ cd Football-Match-Predictor
 ---
 2️⃣ Create Virtual Environment
 Bash
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
+- python -m venv venv
+- source venv/bin/activate      # Windows: venv\Scripts\activate
 ---
 3️⃣ Install Dependencies
 Bash
