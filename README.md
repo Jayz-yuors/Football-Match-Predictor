@@ -141,6 +141,7 @@ FL1_model.joblib (Ligue 1)
 
 🔍 Algorithm Details
 XGBoost (Multi-class classification)
+
 Predicts probabilities for: Home Win, Draw, or Away Win.
 --- 
 ---
@@ -149,6 +150,7 @@ Predicts probabilities for: Home Win, Draw, or Away Win.
 1️⃣ Clone the Repository
 Bash
 git clone https://github.com/Jayz-yuors/Football-Match-Predictor.git
+
 cd Football-Match-Predictor
 ---
 2️⃣ Create Virtual Environment
