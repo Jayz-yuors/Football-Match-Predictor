@@ -120,6 +120,9 @@ All **processed datasets** are already provided so users can:
 **🛠 Feature Engineering**
 The core logic resides in model/feature_engineering/. Features include:
 
+**helper_files folder is just for guidance ... most of the files in it were used for data_fetching- data_storing into the db .. [ which is already done ]***
+
+
 League table position
 Goal difference
 Team form
@@ -138,6 +141,8 @@ PD_model.joblib (La Liga)
 SA_model.joblib (Serie A)
 BL1_model.joblib (Bundesliga)
 FL1_model.joblib (Ligue 1)
+
+
 
 🔍 Algorithm Details
 XGBoost (Multi-class classification)
